@@ -16,7 +16,7 @@
 ### Exercice 3
 * Ajouter une classe **titre** en javascript dans la balise **H1**
 * Afficher de nouveau le **nom de la classe** avec la propriété javascript correspondante dans une boite de dialogue.
-* Changer changer la couleur du background en rouge au clic sur le bouton **Danger**
+* Changer la couleur du background en rouge au clic sur le bouton **Danger**
 
 ### Exercice 4
 * Ajouter une classe **rouge** en javascript dans la balise **H1**
